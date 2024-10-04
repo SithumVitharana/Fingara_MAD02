@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "825948289995",
+    "project_id": "fingaramad02-6295f",
+    "storage_bucket": "fingaramad02-6295f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825948289995:android:1ee2f4b1fc63eca2aa944e",
+        "android_client_info": {
+          "package_name": "com.example.fingara_mad02"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0I8QHp0Fwp7mptfDpmsWD1l6RvhFyxew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
